@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://marco-dev-pinheiro.github.io/lavagem-b13/sitemap.xml
